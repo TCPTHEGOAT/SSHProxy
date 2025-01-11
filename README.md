@@ -11,8 +11,7 @@ Setup - ProxyFile
 Additional: 
 
 apt install screen
-then run, screen -dm -S proxy ./connectproxy <cncserverip> <cncscreenport> <proxyport>
-
+then run, screen -dm -S proxy ./connectproxy cncserverip cncscreenport proxyport
 
 Setup - SSH Verification
 
