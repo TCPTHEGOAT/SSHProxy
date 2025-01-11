@@ -30,5 +30,5 @@ DONT  buy shit like this for $20. See plenty of people charging $20+ for a under
 
 
 
-If you think this is a backdoor, please dm me proof!
-Socials
+If you think this is a backdoor, please dm me proof! otherwise fuck off
+Socials - IG: @tcpfailed Discord: tcplol Telegram: @tcpjuggedyou
