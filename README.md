@@ -12,6 +12,7 @@ Additional:
 
 apt install screen
 this option has no ssh logs to run it run the following commands, screen -dm -S DOMAINname ./connectproxy cncserverip cncscreenport proxyport (no ssh logs)
+
 this option has ssh logs to run it run the following commands, screen ./connectproxy cncserverip cncscreenport proxyport (has ssh logs)
 
 Setup - SSH Verification
