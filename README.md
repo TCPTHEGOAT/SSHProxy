@@ -5,7 +5,7 @@ Setup - ProxyFile
 
 1. PLEASE HAVE AN SSH SERVER DONT DM ME ASKING "WhYs ThIs NoTTT WORKING" 
 2. Must Have Ubuntu 22 or 24
-3. Run Chmod 777 *
+3. Run chmod 777 *
 4. ./connectproxy
 
 Additional: 
