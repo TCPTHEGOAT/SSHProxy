@@ -11,8 +11,6 @@ Setup - ProxyFile
 Additional: 
 
 apt install screen
-this option has no ssh logs to run it run the following commands, screen -dm -S DOMAINname ./connectproxy cncserverip cncscreenport proxyport (no ssh logs)
-
 this option has ssh logs to run it run the following commands, screen ./connectproxy cncserverip cncscreenport proxyport (has ssh logs)
 
 Setup - SSH Verification
@@ -35,5 +33,5 @@ If you think this is a backdoor, please dm me proof! otherwise fuck off
 Socials - IG: @tcpfailed Discord: tcplol Telegram: @tcpjuggedyou
 
 Change Log:
-- 
+- Added Discord Logs 
 -
