@@ -34,4 +34,4 @@ Socials - IG: @tcpfailed Discord: tcplol Telegram: @tcpjuggedyou
 
 Change Log:
 - Added Discord Logs 
--
+- Improved Bugs
