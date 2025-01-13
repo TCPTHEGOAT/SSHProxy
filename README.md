@@ -20,7 +20,7 @@ Setup Tutorial - ProxyFile, SSH Verification (UNRELEASED)
 2. chmod 777 *
 3. ./filename 
 
-#Additional Info: 
+# Additional Info: 
 
 apt install screen
 this option has ssh logs to run it run the following commands, screen ./connectproxy cncserverip cncscreenport proxyport (has ssh logs)
