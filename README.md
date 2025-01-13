@@ -22,7 +22,8 @@ Setup Tutorial - ProxyFile, SSH Verification (UNRELEASED)
 
 # Additional Info: 
 
-apt install screen
+1. sudo apt install screen
+
 this option has ssh logs to run it run the following commands, screen ./connectproxy cncserverip cncscreenport proxyport (has ssh logs)
 
 # Setup - SSH Verification
