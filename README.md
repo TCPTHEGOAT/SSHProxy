@@ -20,7 +20,7 @@ Setup Tutorial - ProxyFile, SSH Verification (UNRELEASED)
 2. chmod 777 *
 3. ./filename 
 
-Additional: 
+#Additional Info: 
 
 apt install screen
 this option has ssh logs to run it run the following commands, screen ./connectproxy cncserverip cncscreenport proxyport (has ssh logs)
@@ -30,15 +30,11 @@ this option has ssh logs to run it run the following commands, screen ./connectp
 1. FILE IS NOT READY FOR RELEASE YET WILL UPDATE THE REPO WHEN ITS FINISHED
 
 
-
-
-
-# Extra:  
-DONT  buy shit like this for $20. See plenty of people charging $20+ for a under 200 lines of code...
+# Socials & Other:  
 
 If you think this is a backdoor, please dm me proof! otherwise fuck off
 Socials - IG: @tcpfailed Discord: tcplol Telegram: @tcpjuggedyou
 
-Change Log:
+# Change Log:
 - Added Discord Logs 
 - Improved Bugs
