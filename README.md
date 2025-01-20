@@ -37,7 +37,7 @@ screen ./connectproxy cncserverip cncscreenport proxyport (has ssh logs)
 
 If you think this is a backdoor, please dm me proof! otherwise fuck off
 
-Socials - IG: @tcpfailed Discord: tcplol Telegram: @tcpjuggedyou
+Socials - IG: @tcpfailed Discord: tcplol Telegram: @tcpfailed
 
 # Change Log:
 - Added Discord Logs 
