@@ -232,6 +232,6 @@ func main() {
 	forwardPort := os.Args[3]
 	listenAddr := fmt.Sprintf("0.0.0.0:%s", forwardPort)
 	targetAddr := fmt.Sprintf("%s:%s", serverIP, backendPort)
-	fmt.Printf("starting tcp proxy from %s to %s\n", listenAddr, targetAddr)
+	fmt.Printf("initializing tcp ssh proxy from %s to %s\n", listenAddr, targetAddr)
 	startProxy(listenAddr, targetAddr)
 }
